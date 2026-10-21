@@ -1,0 +1,5 @@
+out/
+*.class
+run-log.txt
+.idea/
+*.iml
