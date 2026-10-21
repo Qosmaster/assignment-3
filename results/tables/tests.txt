@@ -1,0 +1,26 @@
+PASS: Single vertex MST
+PASS: Single vertex Dijkstra
+PASS: Single vertex directed graph
+PASS: Correct MST weight
+PASS: Correct shortest distance and path
+PASS: Disconnected MST detection
+PASS: Unreachable vertex
+PASS: Multiple valid MSTs and duplicate weights
+PASS: Valid DAG topological ordering
+PASS: Cycle detection
+PASS: SCC on a directed cycle
+PASS: Three SCCs and every vertex exactly once
+PASS: Negative weights rejected by Dijkstra
+PASS: Matching MSTs for V=10
+PASS: Valid generated DAG for V=10
+PASS: Generated cycle detected for V=10
+PASS: Complete SCC partition for V=10
+PASS: Matching MSTs for V=100
+PASS: Valid generated DAG for V=100
+PASS: Generated cycle detected for V=100
+PASS: Complete SCC partition for V=100
+PASS: Matching MSTs for V=1000
+PASS: Valid generated DAG for V=1000
+PASS: Generated cycle detected for V=1000
+PASS: Complete SCC partition for V=1000
+All 25 tests passed.
